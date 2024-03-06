@@ -1,5 +1,4 @@
-# R
-2024-03-04 R
+# R : 2024-03-04
 ## Options
 options(warn = -1)
 options(repr.plot.width=15, repr.plot.height=9)
