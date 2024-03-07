@@ -89,6 +89,4 @@ str_locate() : 문자열에서 특정 문자열 패턴의 첫번째 위치 추�
 str_locate_all() : 문자열에서 특정 문자열 패턴의 위치들 추출<br>
 
 ## 데이터 시각화
-<img width="552" alt="스크린샷 2024-03-07 오후 5 47 27" src="https://github.com/lcy0512/R/assets/152368203/18f904e1-4ed8-43d3-a86c-ec65263c2051">
-
-
+<img width="552" alt="스크린샷 2024-03-07 오후 5 47 27" src="https://github.com/lcy0512/R/assets/152368203/79a6ad5e-a3ac-4ab6-9eb7-f8dc6b432a66">
