@@ -36,6 +36,7 @@ union() : 합집합<br>
 intersect() : 교집합<br>
 setdiff() : 차집합<br>
 setequal : 같은 집합인지 확인<br>
+subset() : 부분 집합<br>
 
 ### 계산
 sqrt() : 제곱근<br>
